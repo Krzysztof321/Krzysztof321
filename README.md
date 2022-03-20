@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krzysztof321
 - 👀 I’m interested in S/W development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ... really nothing in particulat, it can cahne though
+- 💞️ I’m looking to collaborate on ... nothing particulat, it can change though
 - 📫 How to reach me ... you will find a way :)
 
 <!---
